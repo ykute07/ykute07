@@ -1,7 +1,7 @@
 - 👋 Hi, I’m yogesh kute
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on Live Projects
-- 💬 Talk to me about C++, Blockchain
+- 💬 Talk to me about C++, Blockchain & webdevelopment
 - 📫 How to reach me yogeshkute777@gmail.com
 
 <!---
